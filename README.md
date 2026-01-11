@@ -57,7 +57,7 @@ Se implementó un algoritmo que permite insertar valores en un árbol binario de
 ```
 
 **Evidencia de ejecución:**
-
+![Ejercicio 01 - Insert BST](assets/EJ1.png)
 ![Ejercicio 01 - Insert BST](assets/imagenp1.png)
 
 ---
@@ -84,6 +84,7 @@ Se desarrolló un método que invierte un árbol binario intercambiando los hijo
 
 **Evidencia de ejecución:**
 
+![Ejercicio 02 - Invert Tree](assets/EJ2.png)
 ![Ejercicio 02 - Invert Tree](assets/imagenp2.png)
 
 ---
@@ -109,7 +110,7 @@ Se implementó un algoritmo que recorre el árbol por niveles y devuelve una lis
 ```
 
 **Evidencia de ejecución:**
-
+![Ejercicio 03 - List Levels](assets/EJ3.png)
 ![Ejercicio 03 - List Levels](assets/imagenp3.png)
 
 ---
@@ -134,7 +135,7 @@ Se desarrolló un método que calcula la profundidad máxima de un árbol binari
 ```
 
 **Evidencia de ejecución:**
-
+![Ejercicio 04 - Max Depth](assets/EJ4.png)
 ![Ejercicio 04 - Max Depth](assets/imagenp4.png)
 
 ---
@@ -158,5 +159,5 @@ Estructuras No Lineales – Ejercicios Árboles
 
 ## Autor
 
-- **[Tu Nombre Completo]**
+- **JOSHUE ISRAEL AVECILLAS MARTINEZ**
 - Carrera de Computación
