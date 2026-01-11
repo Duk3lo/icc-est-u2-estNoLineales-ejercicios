@@ -57,8 +57,12 @@ Se implementó un algoritmo que permite insertar valores en un árbol binario de
 ```
 
 **Evidencia de ejecución:**
-![Ejercicio 01 - Insert BST](assets/EJ1.png)
-![Ejercicio 01 - Insert BST](assets/imagenp1.png)
+
+_Prueba JUnit:_  
+![JUnit](assets/EJX.png)
+
+_Ejecución:_  
+![Programa](assets/imagenpX.png)
 
 ---
 
@@ -84,8 +88,11 @@ Se desarrolló un método que invierte un árbol binario intercambiando los hijo
 
 **Evidencia de ejecución:**
 
-![Ejercicio 02 - Invert Tree](assets/EJ2.png)
-![Ejercicio 02 - Invert Tree](assets/imagenp2.png)
+_Prueba JUnit:_  
+![Ejercicio 02 - JUnit](assets/EJ2.png)
+
+_Ejecución del programa:_  
+![Ejercicio 02 - Ejecución](assets/imagenp2.png)
 
 ---
 
@@ -110,8 +117,12 @@ Se implementó un algoritmo que recorre el árbol por niveles y devuelve una lis
 ```
 
 **Evidencia de ejecución:**
-![Ejercicio 03 - List Levels](assets/EJ3.png)
-![Ejercicio 03 - List Levels](assets/imagenp3.png)
+
+_Prueba JUnit:_  
+![Ejercicio 03 - JUnit](assets/EJ3.png)
+
+_Ejecución del programa:_  
+![Ejercicio 03 - Ejecución](assets/imagenp3.png)
 
 ---
 
@@ -135,8 +146,13 @@ Se desarrolló un método que calcula la profundidad máxima de un árbol binari
 ```
 
 **Evidencia de ejecución:**
-![Ejercicio 04 - Max Depth](assets/EJ4.png)
-![Ejercicio 04 - Max Depth](assets/imagenp4.png)
+
+_Prueba JUnit:_  
+![Ejercicio 04 - JUnit](assets/EJ4.png)
+
+_Ejecución del programa:_  
+![Ejercicio 04 - Ejecución](assets/imagenp4.png)
+
 
 ---
 
