@@ -10,5 +10,4 @@ public class App {
         System.out.println("✉️  Correo: " + estudiante.correo());
         // NO MODIFICAR HASTA AQUÍ
     }
-
 }
